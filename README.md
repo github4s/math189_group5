@@ -1,1 +1,1 @@
-# Comparing NLTK and BERT on both English and Spanish moview reviews
+# Comparing NLTK and BERT on both English and Spanish movie reviews
